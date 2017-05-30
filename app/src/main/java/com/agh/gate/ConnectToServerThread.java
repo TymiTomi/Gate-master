@@ -8,9 +8,6 @@ import android.util.Log;
 import java.io.IOException;
 import java.util.UUID;
 
-/**
- * Created by Damian on 2017-04-16.
- */
 
 public class ConnectToServerThread extends Thread {
 

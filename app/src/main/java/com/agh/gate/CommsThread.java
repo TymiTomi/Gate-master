@@ -7,9 +7,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
-/**
- * Created by Damian on 2017-04-16.
- */
 
 public class CommsThread extends Thread {
 

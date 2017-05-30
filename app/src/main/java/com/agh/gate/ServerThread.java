@@ -1,8 +1,5 @@
 package com.agh.gate;
 
-/**
- * Created by Damian on 2017-04-16.
- */
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothServerSocket;
